@@ -4,7 +4,7 @@ class Database{
   private $host = '192.168.100.50:3306';
   private $db_name = 'myblog';
   private $username = 'root'; 
-  private $password = ''; 
+  private $password = 'pass'; 
   private $conn;
 
   // Conexión a la BD
